@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sergey
+- 👋 Hi, I’m Sergey!
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ and basics of computer science, data structures and algorithms.
 - 📫 How to reach me: t.me/SergeDubr
 
 <!---
